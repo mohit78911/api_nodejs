@@ -1,0 +1,6 @@
+pele aapne khali data add karyo hto using hard code but have api thi data add karvano che!
+
+make get router 
+Fetch data from db
+return result 
+test Api with postman 
